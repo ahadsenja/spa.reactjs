@@ -1,0 +1,19 @@
+.navs {
+    background: #6f42c1;
+}
+
+.nav-brand {
+    color: #ffffff;
+}
+
+.nav-brand:hover {
+    color: #cccccc;
+}
+
+.menu-item {
+    color: #ffffff;
+}
+
+.menu-item:hover {
+    color: #cccccc;
+}
